@@ -90,7 +90,6 @@
   </q-page>
 </template>
 <script>
-import RegisterCourse from "./courses/register";
 import axios from "axios";
 import {Loading, Notify} from "quasar";
 

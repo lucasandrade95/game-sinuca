@@ -2,7 +2,7 @@
 
 Responsible code author: Lucas Andrade <lucasmendes95@outlook.com.br>
 
-### Rer instalado o Xampp - de preferência
+### Utilizar o Xampp - de preferência
 ```bash
 Git clone do projeto na pasta htdocs do xampp
 Ex.: C:\xampp\htdocs\game-sinuca
